@@ -9,9 +9,11 @@ import SwiftUI
 
 struct HomeView: View {
     var body: some View {
-        Text("Hello, World!")
-        
-        Text("Screen 2!")
+        VStack {
+            Text("Hello, World!")
+            
+            Text("Screen 2!")
+        }
     }
 }
 
