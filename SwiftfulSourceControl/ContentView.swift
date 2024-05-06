@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  SwiftfulSourceControl
 //
-//  Created by Mauricio dSR on 6/5/24.
+//  Created by MZIO on 6/5/24.
 //
 
 import SwiftUI
@@ -10,10 +10,10 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "globe")
+            Image(systemName: "heart.fill")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Swiftful thinking!")
         }
         .padding()
     }

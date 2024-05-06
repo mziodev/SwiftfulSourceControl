@@ -2,7 +2,7 @@
 //  SwiftfulSourceControlApp.swift
 //  SwiftfulSourceControl
 //
-//  Created by Mauricio dSR on 6/5/24.
+//  Created by MZIO on 6/5/24.
 //
 
 import SwiftUI
