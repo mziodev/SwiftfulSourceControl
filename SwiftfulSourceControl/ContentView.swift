@@ -11,18 +11,17 @@
  New feature:
  [Feature] Description of the feature
  
- Bug in production
- [Patch] Description of patch
- 
  Bug not in production
  [Bug] Description of the bug
- 
- Mundane tasks
- [Clean] Description of changes
  
  Release:
  [Release] Description o releases
  
+ Bug in production
+ [Patch] Description of patch
+ 
+ Mundane tasks
+ [Clean] Description of changes
  
  */
 
