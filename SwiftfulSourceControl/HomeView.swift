@@ -11,7 +11,7 @@ struct HomeView: View {
     var body: some View {
         Text("Hello, World!")
         
-        Text("Second screen!")
+        Text("Screen 2!")
     }
 }
 
