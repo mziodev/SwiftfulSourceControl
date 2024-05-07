@@ -11,6 +11,8 @@
  Commit = save ("checkpint") on our current branch
  Stage = prepare changes for a commit
  Stash = save changes for later
+ Push = send local commits to remote repo
+ Pull = fetch remote commits to local repo
  
  
  COMMIT MESSAGES
