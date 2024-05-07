@@ -6,7 +6,14 @@
 //
 
 /*
- Commit Messages
+ 
+ Clone = copying the repo locally
+ Commit = save ("checkpint") on our current branch
+ Stage = prepare changes for a commit
+ Stash = save changes for later
+ 
+ 
+ COMMIT MESSAGES
  
  New feature:
  [Feature] Description of the feature
