@@ -44,12 +44,11 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Swiftful thinking!")
             
-            Text("Swiftful thinking!")
-            
             Button("Subscribe") {
                 
             }
             
+            Rectangle()
             Rectangle()
         }
         .padding()
